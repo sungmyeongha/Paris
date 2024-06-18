@@ -292,12 +292,12 @@ a {
     border-radius: 5px;
 }
 .top_btn {
-    text-align: center;
-    width: 44px;
-    height: 48px;
+text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
     display: flex;
     flex-direction: column;
-    padding: 15px 10px;
     font-size: 10px;
 }
 .header_scoll_msg {
