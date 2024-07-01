@@ -495,7 +495,7 @@ overflow: hidden;
     }
 
     .top_btn {
-
+        padding: 0;
         width: 20px;
         height: 20px;
 
